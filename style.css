@@ -1,0 +1,43 @@
+#Google {
+    background-color: red;
+    color: white;
+}
+
+.bold-a:first-child {
+    font-weight: bold;
+}
+
+
+#Ecosia {
+    background-color: rgb(144, 58, 206);
+    color: white;
+}
+
+#Yahoo {
+    background-color: lightgreen;
+    color: white;
+}
+
+#first-article {
+    background-color: lightgreen;
+    color: white;
+}
+
+#second-article {
+    background-color: purple;
+    color: white;
+}
+
+#third-article {
+    background-color: red;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    color: white;
+
+}
